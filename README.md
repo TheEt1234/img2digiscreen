@@ -5,4 +5,3 @@ Puts an image to minetest (Requires digiscreen mod), Also my code is absolutely 
 Okay so
 - this is terribly made and unfinished
 - The code quality will make you vomit
-- Someone please help
